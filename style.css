@@ -1,7 +1,18 @@
 body{
  text-align: center;
- background#89c2d9;
+ background: #89c2d9 ;
 }
 #slogan{
     font-size: 25px;
+}
+
+.capa{
+    width: 90%;
+height:80% ;
+
+}
+.conteudo{
+background:rgb(3, 74, 217);
+
+
 }
