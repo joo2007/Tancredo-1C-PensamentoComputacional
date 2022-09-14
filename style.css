@@ -1,6 +1,9 @@
 body{
+    background-color: #ff0000 ;
+}
+main{
  text-align: center;
- background-color: #ff0000 ;
+ 
  color: #ffff;
 }
 #slogan{
@@ -16,4 +19,7 @@ height:50% ;
 background:rgb(203, 1, 1);
 
 
+}
+.beneficios {
+    background-color: #ff0000;
 }
