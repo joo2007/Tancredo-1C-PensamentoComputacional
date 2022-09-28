@@ -1,10 +1,7 @@
 body{
-    background-color: #ff0000 ;
-}
-main{
  text-align: center;
- 
- color: rgb(255, 255, 255);
+ background-color: #9555cc ;
+ image: 5509862.jpg ;
 }
 #slogan{
     font-size: 25px;
@@ -12,17 +9,12 @@ main{
 
 .capa{
     width: 100%;
-height:50% ;
+    height:100% ;
 
+}
+.beneficios{
+    text-align: left;
 }
 .conteudo{
-background:rgb(203, 1, 1);
-
-
-}
-.beneficios {
-    background-color: #ff0000;
-}
-.foto-beneficio{
-    width: 40%;
+background:rgb(60, 7, 100);
 }
