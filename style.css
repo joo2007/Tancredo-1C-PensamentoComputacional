@@ -1,5 +1,11 @@
 body{
-    background-color: #ff0000 ;
+    background: linear-gradient( #6200ff,#ff0000c8); 
+    margin: 0 auto;
+}
+.foto-logo{
+    width: 10%;
+    margin-left: 18px;
+    border-radius: 100%;
 }
 main{
  text-align: center;
@@ -15,25 +21,23 @@ main{
 height:50% ;
 
 }
-.conteudo{
-background:rgb(203, 1, 1);
-
-
-}
-.beneficios {
-    background-color: #ff0000;
-    color: aliceblue;
-    
-}
+ 
 ul{
     display: inline-block;
     vertical-align: top;
+    padding: 10px;
     font-size: 20px;
     margin-right: 300px;
+}
+.beneficios h2 {
+    text-align: center;
+
 }
 li{
     padding: 20px;
 }
 .foto-beneficio{
     width: 40%;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px #000000;
 }
