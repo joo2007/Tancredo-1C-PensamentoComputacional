@@ -24,3 +24,22 @@ nav {
             text-shadow: 2px 3px 5px #000000;
             transition: 0,5s;
         }
+        .imagem-produtos{
+            width: 100%;
+        }
+        .produtos{
+            width: 940px;
+            margin: 0 auto;
+            padding: 50px 0;
+        }
+        .produtos li {
+            display: inline-block;
+            text-align: center;
+            width: 30%;
+            color: aliceblue;
+            vertical-align: top;
+            margin: 0 1 0.5%;
+            padding: 30px 5px; 
+            box-sizing: border-box;
+            border: 2px solid #000000;
+        }
